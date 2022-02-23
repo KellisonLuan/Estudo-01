@@ -1,2 +1,2 @@
 # Estudo-01
- Estudo de Desenvolvimento Web(HTML, CSS, JAVASCRIPT), utilizando a plataforma do curso em video.
+ Projeto desenvolvido com a finalidade de aprender alguns conceitos básicos de desenvolvimento WEB(html, css e javascript), foi utilizado o curso HTML da plataforma curso em video.
